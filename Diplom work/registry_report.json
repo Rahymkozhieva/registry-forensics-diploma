@@ -1,0 +1,19 @@
+{
+  "analyzed_file": "SYSTEM",
+  "artefacts": [
+    {
+      "category": "USB",
+      "registry_path": "ControlSet001\\Enum\\USBSTOR\\Disk&Ven_Kingston&Prod_DT_101_G2&Rev_1.00",
+      "name": "DeviceDesc",
+      "value": "@usbstor.inf,%disk_devdesc%;USB Disk",
+      "data_type": "REG_SZ"
+    },
+    {
+      "category": "USB",
+      "registry_path": "ControlSet001\\Enum\\USBSTOR\\Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.26",
+      "name": "FriendlyName",
+      "value": "SanDisk Cruzer Blade USB Device",
+      "data_type": "REG_SZ"
+    }
+  ]
+}
